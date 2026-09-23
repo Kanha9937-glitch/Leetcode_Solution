@@ -11,7 +11,7 @@ This repository contains my solutions to LeetCode problems.
 <!-- START_PROBLEMS -->
 | Sl.No. | Problem | Difficulty | Language |
 |---|---------|------------|----------|
-
+| 1 | Two Sum | Easy | Python |
 <!-- END_PROBLEMS -->
 ## Goal
 
