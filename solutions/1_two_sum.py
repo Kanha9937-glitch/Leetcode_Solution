@@ -1,6 +1,6 @@
-# Two Sum
-# Easy
-# Python
+# Problem: Two Sum
+# Difficulty: Easy
+# Language: Python
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
