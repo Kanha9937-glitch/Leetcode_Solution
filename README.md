@@ -9,7 +9,7 @@ This repository contains my solutions to LeetCode problems.
 ## Problems Solved
 
 <!-- START_PROBLEMS -->
-| # | Problem | Difficulty | Language |
+| Sl.No. | Problem | Difficulty | Language |
 |---|---------|------------|----------|
 
 <!-- END_PROBLEMS -->
