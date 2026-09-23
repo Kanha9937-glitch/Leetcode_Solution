@@ -1,2 +1,19 @@
-# Leetcode_Solution
-Dsa questions solved by python 
+# LeetCode Solutions
+
+This repository contains my solutions to LeetCode problems.
+
+## Languages
+
+- Python
+
+## Problems Solved
+
+<!-- START_PROBLEMS -->
+| # | Problem | Difficulty | Language |
+|---|---------|------------|----------|
+
+<!-- END_PROBLEMS -->
+## Goal
+
+My goal is to consistently practice Data Structures
+and Algorithms and improve my problem-solving skills.
