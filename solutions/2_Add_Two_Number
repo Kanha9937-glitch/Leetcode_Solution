@@ -19,4 +19,4 @@ class Solution:
             newnode=ListNode(sum%10)
             recent.next=newnode
             recent=newnode
-        return temp.next          
+        return temp.next    
