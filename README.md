@@ -12,8 +12,6 @@ This repository contains my solutions to LeetCode problems.
 | Sl.No. | Problem | Difficulty | Language |
 |---|---------|------------|----------|
 | 1 | Two Sum | Easy | Python |
-
-
 <!-- END_PROBLEMS -->
 ## Goal
 
