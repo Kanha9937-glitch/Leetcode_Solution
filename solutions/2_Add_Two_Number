@@ -1,6 +1,6 @@
-# Add two number
-# Medium 
-# Python 
+# Problem: Add two number 
+# Difficulty: Medium 
+# Language: Python
 class Solution:
     def addTwoNumbers(self, l1: ListNode | None, l2: ListNode | None) -> ListNode | None:
         temp=ListNode(0)
