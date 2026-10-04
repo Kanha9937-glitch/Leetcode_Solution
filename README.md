@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems.
 | 1 | Two Sum | Easy | Python |
 | 2 | Add Two Numbers | Medium | Python |
 | 3 | Palindrome Numbers | Easy | Python |
+| 3 | Longest substring  | Midium  | python  |
 <!-- END_PROBLEMS -->
 ## Goal
 
