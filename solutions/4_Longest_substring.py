@@ -1,5 +1,5 @@
 # Problem: Longest substring 
-# Difficulty: Midium 
+# Difficulty: Medium 
 # Language: python 
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
